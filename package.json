@@ -1,6 +1,6 @@
 {
 	"name": "seeder",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"description": "Seed anything with JSONT",
 	"main": "index.js",
 	"scripts": {
@@ -19,6 +19,6 @@
 	"author": "Muthu Kumar <@MKRhere> (https://mkr.pw)",
 	"license": "MIT",
 	"dependencies": {
-		"@codefeathers/jsont": "^0.0.4"
+		"@codefeathers/jsont": "^0.0.5"
 	}
 }
