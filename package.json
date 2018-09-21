@@ -1,0 +1,20 @@
+{
+	"name": "seeder",
+	"version": "0.2.0",
+	"description": "Seed database with JSONT",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"json",
+		"jsont",
+		"template",
+		"seed"
+	],
+	"author": "Muthu Kumar <@MKRhere> (https://mkr.pw)",
+	"license": "MIT",
+	"dependencies": {
+		"@codefeathers/jsont": "^0.0.4"
+	}
+}

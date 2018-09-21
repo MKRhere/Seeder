@@ -1,0 +1,31 @@
+dependencies:
+  '@codefeathers/infinity': 0.5.1
+  '@codefeathers/jsont': 0.0.4
+packages:
+  /@codefeathers/infinity/0.5.1:
+    dev: false
+    resolution:
+      integrity: sha512-F3/uXJuK/pA2Dx4Ft65qseIxyVY15alaY44NOLN56/Z+u4zXrAmTFhGfBNuIWEixuV0S+BLZP4Gd+zpQO6gcrw==
+  /@codefeathers/jsont/0.0.4:
+    dependencies:
+      bson: 3.0.2
+      safe-eval: 0.4.1
+    dev: false
+    resolution:
+      integrity: sha512-4d++BD7/LSzPS2YgaRR+s19vkPsn6ZzRj+kwA7IhgEPXqDj6MX51OAL+YDhHYBIqJHm8zZU/sQvrqdM4F9CaeQ==
+  /bson/3.0.2:
+    dev: false
+    engines:
+      node: '>=4.0.0'
+    resolution:
+      integrity: sha512-HrDzr7y/ZkgyEVancPVDmfbaD8j81GzSNr6h6yUd/yZfavkrlrqI8aUZMCHrhyMoCW2/I+vEJDat1xDWRwVR6A==
+  /safe-eval/0.4.1:
+    dev: false
+    resolution:
+      integrity: sha512-wmiu4RSYVZ690RP1+cv/LxfPK1dIlEN35aW7iv4SMYdqDrHbkll4+NJcHmKm7PbCuI1df1otOcPwgcc2iFR85g==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapMinorVersion: 9
+shrinkwrapVersion: 3
+specifiers:
+  '@codefeathers/infinity': ^0.5.1
+  '@codefeathers/jsont': ^0.0.4
